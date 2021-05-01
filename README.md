@@ -4,4 +4,7 @@
 Test scaffold for python
 
 Tested on Cloud9 (AWS)
+
 Tested on Cloud Shell (Azure)
+
+Tested on Cloud Shell (Google Cloud Platform)
